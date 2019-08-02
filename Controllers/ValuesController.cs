@@ -14,7 +14,7 @@ namespace igti_tcc_cadastro_conta_api.Controllers
         [HttpGet]
         public ActionResult<IEnumerable<string>> Get()
         {
-            return new string[] { "value1", "value2" };
+            return new string[] { "Cadastro", "de", "Conta" };
         }
 
         // GET api/values/5
