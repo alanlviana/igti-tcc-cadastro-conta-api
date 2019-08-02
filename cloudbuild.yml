@@ -1,4 +1,9 @@
 steps:
+# This step install npm packages
+- name: microsoft/dotnet:sdk
+  entrypoint: dotnet
+  args: ['build']
+
 # This step builds the container image.
 - name: 'gcr.io/cloud-builders/docker'
   id: Build
