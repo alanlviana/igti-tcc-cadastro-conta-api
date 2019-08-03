@@ -1,0 +1,14 @@
+C:\Users\alanl\Documents\Projetos\igti-tcc-cadastro-conta-api\bin\Debug\netcoreapp2.2\igti-tcc-cadastro-conta-api.deps.json
+C:\Users\alanl\Documents\Projetos\igti-tcc-cadastro-conta-api\bin\Debug\netcoreapp2.2\igti-tcc-cadastro-conta-api.runtimeconfig.json
+C:\Users\alanl\Documents\Projetos\igti-tcc-cadastro-conta-api\bin\Debug\netcoreapp2.2\igti-tcc-cadastro-conta-api.runtimeconfig.dev.json
+C:\Users\alanl\Documents\Projetos\igti-tcc-cadastro-conta-api\bin\Debug\netcoreapp2.2\igti-tcc-cadastro-conta-api.dll
+C:\Users\alanl\Documents\Projetos\igti-tcc-cadastro-conta-api\bin\Debug\netcoreapp2.2\igti-tcc-cadastro-conta-api.pdb
+C:\Users\alanl\Documents\Projetos\igti-tcc-cadastro-conta-api\obj\Debug\netcoreapp2.2\igti-tcc-cadastro-conta-api.csprojAssemblyReference.cache
+C:\Users\alanl\Documents\Projetos\igti-tcc-cadastro-conta-api\obj\Debug\netcoreapp2.2\igti-tcc-cadastro-conta-api.csproj.CoreCompileInputs.cache
+C:\Users\alanl\Documents\Projetos\igti-tcc-cadastro-conta-api\obj\Debug\netcoreapp2.2\igti-tcc-cadastro-conta-api.RazorAssemblyInfo.cache
+C:\Users\alanl\Documents\Projetos\igti-tcc-cadastro-conta-api\obj\Debug\netcoreapp2.2\igti-tcc-cadastro-conta-api.RazorAssemblyInfo.cs
+C:\Users\alanl\Documents\Projetos\igti-tcc-cadastro-conta-api\obj\Debug\netcoreapp2.2\igti-tcc-cadastro-conta-api.AssemblyInfoInputs.cache
+C:\Users\alanl\Documents\Projetos\igti-tcc-cadastro-conta-api\obj\Debug\netcoreapp2.2\igti-tcc-cadastro-conta-api.AssemblyInfo.cs
+C:\Users\alanl\Documents\Projetos\igti-tcc-cadastro-conta-api\obj\Debug\netcoreapp2.2\igti-tcc-cadastro-conta-api.RazorTargetAssemblyInfo.cache
+C:\Users\alanl\Documents\Projetos\igti-tcc-cadastro-conta-api\obj\Debug\netcoreapp2.2\igti-tcc-cadastro-conta-api.dll
+C:\Users\alanl\Documents\Projetos\igti-tcc-cadastro-conta-api\obj\Debug\netcoreapp2.2\igti-tcc-cadastro-conta-api.pdb
