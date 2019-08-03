@@ -4,11 +4,11 @@ namespace igti_tcc_cadastro_conta_api.Models
 {
     public class Conta
     {
-        private int Id{get;set;}
-        private string Nome{get;set;}
-        private string Sobrenome{get;set;}
-        private string CPF{get;set;}
-        private DateTime DataNascimento{get;set;}
-        private double Salario{get;set;}
+        public int Id{get;set;}
+        public string Nome{get;set;}
+        public string Sobrenome{get;set;}
+        public string CPF{get;set;}
+        public DateTime DataNascimento{get;set;}
+        public double Salario{get;set;}
     }
 }
