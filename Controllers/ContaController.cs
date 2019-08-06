@@ -1,6 +1,8 @@
+using System;
 using System.Collections.Generic;
 using igti_tcc_cadastro_conta_api.Models;
 using Microsoft.AspNetCore.Mvc;
+using System.Linq;
 
 namespace igti_tcc_cadastro_conta_api.Controllers
 {
@@ -18,6 +20,19 @@ namespace igti_tcc_cadastro_conta_api.Controllers
         [HttpPut("{id}")]
         public void Put(int id, [FromBody] Conta conta)
         {
+        }
+
+        [HttpGet]
+        public List<object> Get(){
+        
+            var enumerator = Environment.GetEnvironmentVariables().GetEnumerator();
+            var list = new List<object>();
+            while (enumerator.MoveNext())
+            {
+                list.Add(new{Chave = enumerator.Key, Valor = enumerator.Value});
+            }
+
+            return list;
         }
     }
 }
