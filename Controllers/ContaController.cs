@@ -23,16 +23,9 @@ namespace igti_tcc_cadastro_conta_api.Controllers
         }
 
         [HttpGet]
-        public List<object> Get(){
-        
-            var enumerator = Environment.GetEnvironmentVariables().GetEnumerator();
-            var list = new List<object>();
-            while (enumerator.MoveNext())
-            {
-                list.Add(new{Chave = enumerator.Key, Valor = enumerator.Value});
-            }
-
-            return list;
+        public string Get(){
+            var hostname = Environment.GetEnvironmentVariable("HOSTNAME");
+            return hostname;
         }
     }
 }
