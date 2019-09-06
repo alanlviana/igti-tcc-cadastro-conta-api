@@ -39,7 +39,7 @@ namespace igti_tcc_cadastro_conta_api
                         Description = "Abertura de Contas",
                         Contact = new Contact
                         {
-                            Name = "Alan L Viana"
+                            Name = "Alan Luiz Viana"
                         }
                     });
             });

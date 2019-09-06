@@ -1,5 +1,10 @@
 steps:
 # This step install npm packages
+steps:
+- name: node:10.15.1
+  entrypoint: npm
+  args: ['install']
+  
 - name: microsoft/dotnet:sdk
   entrypoint: dotnet
   args: ['build']
